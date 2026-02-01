@@ -111,6 +111,7 @@ W陕西,#genre#
 陕西银铃频道,webview://http://live.snrtv.com/3
 陕西秦腔频道,webview://http://live.snrtv.com/5
 陕西体育休闲,webview://http://live.snrtv.com/7
+安康综合频道,webview://https://www.akxw.cn/col2076.html
 W甘肃,#genre#
 甘南汉语,webview://http://www.gnrtv.cn/display.php?id=96
 甘南藏语,webview://http://www.gnrtv.cn/display.php?id=14950
@@ -475,6 +476,10 @@ W山东,#genre#
 日照新闻综合,webview://https://www.rzw.com.cn/folder247/folder2217
 聊城新闻综合,webview://https://lcxw.cn/kands/
 淄博新闻综合频道,webview://https://web.guangdianyun.tv/tv/?id=2308&uin=3185
+威海新闻综合频道,webview://https://hi.hiweihai.net/htmlinc/tv/index.html
+枣庄公共频道,webview://https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/web/#/tv
+菏泽新闻综合频道,webview://http://www.hznet.tv/live/hztv1_index.shtml
+HZTV-2,webview://http://www.hznet.tv/live/hztv2_index.shtml
 W黑龙江,#genre#
 黑龙江卫视,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljws/
 黑龙江都市,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljds/
@@ -512,6 +517,7 @@ W四川,#genre#
 宁南综合频道,webview://http://app.jintoo.net/live/ningnan/
 阿坝新闻综合,webview://https://www.aba-news.com.cn/#/tvChannel?subjectId=1523946498072231937
 阿坝藏语综合,webview://https://www.aba-news.com.cn/#/tvChannel?subjectId=1504727504570355714
+达川区电视台,webview://https://www.dachuan.org.cn/news/30981
 W新疆,#genre#
 新疆卫视,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=1
 新疆2,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=3
@@ -525,5 +531,6 @@ W新疆,#genre#
 阿克苏维语综合,webview://https://web.guangdianyun.tv/tv/?id=2233&uin=3643
 阿克苏汉语综合,webview://https://web.guangdianyun.tv/tv/?id=2229&uin=3643
 阿克苏党建频道,webview://https://web.guangdianyun.tv/tv/?id=2234&uin=3643
+克拉玛依新闻综合频道,webview://https://www.rcsxzx.com/#/
 W其他,#genre#
 
